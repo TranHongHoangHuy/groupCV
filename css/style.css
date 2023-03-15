@@ -1,0 +1,14 @@
+h1 {
+  text-align: center;
+}
+
+.card {
+  width: auto;
+  height: 500px;
+}
+
+.card-img {
+  min-height: 350px;
+  width: auto;
+  object-fit: cover;
+}
